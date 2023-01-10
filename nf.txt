@@ -1,0 +1,156 @@
+hw2_1NF_invalidPKK1K2
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_1nf_difficult
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_2nf_not3nf
+PK	Y
+1NF	Y
+2NF	Y
+3NF	N
+BCNF	N
+
+hw2_3nf_notbcnf
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	N
+
+hw2_3nf_notbcnf_2
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	N
+
+hw2_bcnf
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	Y
+
+hw2_bcnf_2
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	Y
+
+hw2_compositepk
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	Y
+
+hw2_compositepk_2
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	Y
+
+hw2_compositepk_3: Invalid Input
+
+hw2_easy: Invalid Input
+
+hw2_easy_strings
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	Y
+
+hw2_empty: Empty Table
+
+hw2_invalidPKk_not1NF
+PK	N
+1NF	N
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_large_1
+PK	Y
+1NF	Y
+2NF	Y
+3NF	N
+BCNF	N
+
+hw2_large_2
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_large_3
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_not2nf
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_not2nf_difficult
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_not2nf_easy
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+
+hw2_onerow: Single Row Table
+
+hw2_pkbad_3
+PK	N
+1NF	N
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_pkbad_4
+PK	N
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
+hw2_pkeasy
+PK	Y
+1NF	Y
+2NF	Y
+3NF	Y
+BCNF	Y
+
+hw2_strings
+PK	Y
+1NF	Y
+2NF	N
+3NF	N
+BCNF	N
+
